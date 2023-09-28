@@ -1,0 +1,102 @@
+Mouser Part Number,DigiKey Part Number,Description,Quantity 1,Customer Part #,Notes
+692-Z84C0010PEG,,"Z80 CPU, CMOS, 40 pin DIP - Z84C00xxPEG",1,U1,
+968-CP82C55A-5Z,,"82C55 PPI, CMOS, 40 pin DIP - CP82C55AZ",1,U2,
+,,"V9958 VDP, 64 pin DIP",1,U3,need to order on eBay
+,,"YM2149 PSG, 40 pin DIP",1,U4,need to order on eBay
+,,"RP5C01 RTC, 18 pin DIP",1,U5,need to order on eBay
+804-39SF0407CPHE,,"512 KiB Flash ROM, 32 pin DIP - SST39SF040",1,U6,
+913-AS6C4008-55PCN,,"512 KiB SRAM, 32 pin DIP - AS6C4008",1,U7,
+,,"D41464, 64K x 4 DRAM, 18 pin DIP",4,U8 - U11,need to order on eBay
+556-AF16V8B15PU,,Simple Programmable Logic Device - ATF16V8B,3,"U12 - U14",
+595-CD74HC670E,,"4-by-4 Register File - 74HC670, 16 pin DIP",4,U15 - U18,
+595-SN74F541N,,"74F541, 20 pin DIP",3,U19 - U21,
+595-SN74HCT540N,,"74HCT540, 20 pin DIP",1,U22,
+595-SN74HCT273N,,"74HCT273, 20 pin DIP",2,"U23, U24",
+595-SN74F245N,,"74F245, 20 pin DIP",2,"U25, U26",
+595-CD74HCT175E,,"74HCT175, 16 pin DIP",1,U27,
+595-SN74HCT157N,,"74HCT157, 16 pin DIP",2,"U28, U29",
+595-CD74HCT153E,,"74HCT153, 16 pin DIP",2,"U30, U31",
+595-SN74AHCT138N,,"74AHCT138, 16 pin DIP",1,U32,
+595-SN74AHCT125N,,"74AHCT125, 14 pin DIP",1,U33,
+595-SN74HCT74N,,"Dual Flip Flop - 74HCT74, 14 pin DIP",3,U34 - U36,
+595-SN74AHCT32N,,"74AHCT32, 14 pin DIP",3,U37 - U39,
+595-CD74HCT30E,,"74HCT30, 14 pin DIP",2,"U40, U41",
+595-SN74LS07N,,"74LS07, 14 pin DIP",1,U42,
+595-SN74HCT04N,,"74HCT04, 14 pin DIP",1,U43,
+595-SN74AHCT02N,,"74AHCT02, 14 pin DIP",1,U44,
+595-SN74HCT00N,,"74HCT00, 14 pin DIP",1,U45,
+584-ADM691AANZ,,Microprocessor Supervisory Circuit - ADM691A,1,U46,
+,,"Sony CXA1645P RGB Encoder, 24 pin DIP-400",0,U47,need to order on eBay
+579-MCP6281-E-P,,"MCP6281-E/P Operational Amplifier, 8 pin DIP",1,U48,
+926-LM311N-NOPB,,"LM311N, Voltage Comparator, 8 pin DIP",1,U49,
+810-FA26X7R2E104KNU6,,"0.1 uF, MLCC, 5 mm Pitch",58,C1 - C58,original 594-K104K15X7RF53H5
+710-860160575020,,"220 uF, Electrolytic",6,C59 - C54,original 647-UBW1E221MPD
+710-870235373001,,"100 uF, 16V, Aluminum Organic Polymer",3,C65 - C67,original 80-A750EK107M1CAAE18
+810-FA26X7R1E10600,,"10 uF, MLCC, 5 mm Pitch",3,C68 - C70,original 810-FG28X5R1E106MR00
+710-860160472001,,"10 uF, Electrolytic",7,C71 - C77,original 647-UPW1E100MDD1TD
+710-860160672002,,"1 uF, Electrolytic",1,C78,original 710-860020672005
+810-FA28X7R1H22300,,"22 nF, MLCC, 5 mm Pitch",2,"C79, C80",original 810-FG28X7R1H223KNT0
+810-FA28C0G1H15200,,"1.5 nF, MLCC, 5 mm Pitch",1,C81,original 810-FG28C0G1H152JNT0
+810-FA28C0G1H33100,,"330 pF, MLCC, 5 mm Pitch",3,C82 - C84,original 810-FG28C0G1H331JNT0
+810-FA28C0G1H47000,,"47 pF, MLCC, 5 mm Pitch",1,C85,original 810-FG28C0G1H470JNT0
+810-FA28C0G1H33000,,"33 pF, MLCC, 5 mm Pitch",2,"C86, C87",original 810-FG28C0G1H330JNT0
+,2447-GKG30015-ND,"30 pF, Trim Capactiors, 5 mm Pitch",3,C88 - C90,
+594-K270J15C0GF5TH5,,"27 pF, MLCC, 5 mm Pitch",1,C91,original 810-FG28C0G2A270JNT0
+810-FA28C0G1H22000,,"22 pF, MLCC, 5 mm Pitch",2,"C92, C93",original 810-FG28C0G1H220JNT0
+810-FA28C0G1H4R7CNU6,,"4.7 pF, MLCC, 5 mm Pitch",1,C94,original 810-FG28C0G1H4R7CNT0
+652-4610X-AP1-103LF,,"10 kohm, bussed, 10 pin SIP",4,RR1 - RR4,
+652-4610X-AP1-472LF,,"4.7 kohm, bussed, 10 pin SIP",3,RR5 - RR7,
+652-4606X-AP1-472LF,,"4.7 kohm, bussed, 6 pin SIP",2,"RR8, RR10",
+652-4606X-AP1-471LF,,"470 ohm, bussed, 6 pin SIP",1,RR9,
+603-MFR-25FBF52-1M,,"1 Mohm, axial",0,R1,PAL support
+603-MFR-25FBF52-470K,,"470 kohm, axial	",2,"R2, R3",
+603-MFR-25FBF52-220K,,"220 kohm, axial",1,R4,
+603-MFR-25FBF52-100K,,"100 kohm, axial",2,"R5, R6",
+603-MFR-25FBF52-47K,,"47 kohm, axial",2,"R7, R8",
+603-MFR-25FBF52-20K,,"20 kohm, 1% tolerance, axial",2,"R9, R10",
+603-MFR-25FBF52-10K,,"10 kohm, axial",4,R11 - R14,
+603-MFR-25FBF52-5K6,,"5.6 kohm, axial",1,R15,
+603-MFR-25FBF52-4K7,,"4.7 kohm, axial",7,R16 - R22,
+603-MFR-25FBF52-2K7,,"2.7 kohm, axial",2,"R23, R24",
+603-MFR-25FBF52-2K2,,"2.2 kohm, axial",2,"R25, R26",
+603-MFR-25FBF52-1K,,"1 kohm, axial",7,R27 - R33,
+603-MFR-25FBF52-470R,,"470 ohm, axial",1,R34,
+603-MFR-25FBF52-180R,,"180 ohm, axial",1,R35,
+603-MFR-25FBF52-120R,,"120 ohm, axial",1,R36,
+603-MFR-25FBF52-100R,,"100 ohm, axial",6,R37 - R42,
+603-MFR-25FBF52-75R,,"75 ohm, axial",6,R43 - R48,
+653-G5V-1-T90-DC5,,5V SPDT relay,1,RY1,
+542-78F680-RC,,"68 uH, axial",1,L1,
+542-78F5R6J-RC,,"5.6 uH, axial",2,"L2, L3",
+512-1N4148TR,,1N4148,1,D1,
+512-PN2907ATF,,PN2907A,1,"Q1, Q2",Q2 is for V9938 VDP only
+695-HC49US-214-U,,21.477270 MHz,1,Y1,
+815-AB38T-32.768KHZ,,32768 Hz,1,Y2,
+520-HCU443-20X,,4.433618 MHz,0,Y3,PAL support
+650-RUSBF075-2,,"750 mA, radial, 5 mm pitch",1,F1,
+806-KLDX-0202-A,,"DC Power Jack, 2mm",1,J1,
+490-RCJ-014,,"RCA Phono connector, Yellow",1,J2,
+490-RCJ-013,,"RCA Phono connector, White",1,J2,
+490-MD-40SM,,"Mini DIN 4-pos, Right Angle, PCB mount",1,J4,
+490-SDF-80J,,"DIN 8-pos, Right Angle, PCB mount",2,"J5, J6",
+523-L717SDE09P1ACH3R,,"Sub-D DE9M, Right Angle, PCB mount",2,"J7, J8",
+636-112-014-213R001,,"Micro Ribbon 14-pos, Female, Right Angle, PCB mount",1,J9,
+571-6404568,,8 pin friction lock connector,1,J10,
+710-61201621621,,"2x8 pin header, shrouded",1,J11,
+517-929852-01-20-RB,,2x20 pin socket,1,J12,
+710-61300421121,,2x2 pin header,1,J13,
+710-61301311121,,1x13 pin header,0,J14,
+571-5530843-5,,50 pin card edge connector,2,"SLOT1, SLOT2",
+710-61300311121,,2 pin header,2,"JP1, JP2",original 649-78229-102HLF
+,,Wire link,0,JP3 - JP6,wire link
+710-61300621121,,2x3 pin header,,"JP7, JP8",2x3 pin header
+122-2420-GR,,CR2032 Battery holder,1,BT1,
+517-4840-6000-CP,,40 pin DIP,3,"U1, U2, U4",
+,117-87-764-41-005101,64 pin DIP,1,U3,"70 mil pitch, 750 mil spacing"
+517-4832-6000-CP,,32 pin DIP,2,"U6, U7",
+,110-44-424-41-001000,"24 pin DIP, 400 mil spacing",1,U47,"100 mil pitch, 400 mil spacing"
+517-4820-3000-CP,,20 pin DIP,11,"U12 - U14, U19 - U26",
+517-4818-3000-CP,,18 pin DIP,5,"U5, U8 - U11",
+517-4816-3000-CP,,16 pin DIP,11,"U15 - U18, U27 - U32, U46",
+517-4814-3000-CP,,14 pin DIP,13,U33 - U45,
+517-4808-3000-CP,,8 pin DIP,2,"U48, U49",

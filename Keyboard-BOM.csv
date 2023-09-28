@@ -1,0 +1,16 @@
+Mouser Part Number,Description,Quantity 1,Customer Part #,Notes
+595-SN74LS145N,74LS145 Octal D-Type Latch,1,U1,
+595-SN74LS07N,74LS07 Octal Bus Transceiver,1,U2,
+593-VAOL-3GDE4,"3 mm, green LED indicator",1,D1,original 593-VAOL-3HDE4
+593-VAOL-3GCE4,"3 mm, yellow LED indicator",1,D2,original 593-VAOL-3HCE4
+593-VAOL-3GAE4,"3 mm, red LED indicator",1,D3,original 593-VAOL-3HAE4
+512-1N4148TR,1N4148,3,D4 - D6,
+540-MX1A-11NW,MX Cherry - Linear,73,"SW1 - SW64, SW66 - SW73",540-MX1A-21NW not available
+540-MX1A-21NW,MX Cherry - High Force Linear,0,
+540-G99-0742,"Leveling kit for MX 1x2, 1x2.25, 1x2.75",5,"SW13, SW49, SW64, SW65, SW73",
+540-G99-0226 ,Leveling kit for MX 1x8,1,SW64,
+710-61201621721 ,"2x8 pin header, right angle, shrouded, 2.54 mm pitch",1,J1,
+810-FA26X7R2E104KNU6,"0.1 uF, MLCC, 5 mm lead spacing",2,"C1, C2",original 594-K104K15X7RF53H5
+810-FA26X7R1E10600,"10 uF, MLCC, 5 mm lead spacing",1,C3,original 810-FG28X5R1E106MR00
+652-4606X-AP1-472LF,"4.7 kohm, bussed, 6 pin SIP",1,RN1,original 264-4.7K-RC
+603-MFR-25FBF52-470R,"470 ohm, through hole",3,R1 - R3,original 291-470-RC
